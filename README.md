@@ -8,7 +8,7 @@
   <a href="mailto:lg5104891@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/luis-guilherme-126072360"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://wa.me/5561998730501"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="https://luisguilherme605.github.io/portfolio-luis-guilherme/"><img src="https://img.shields.io/badge/Portfólio-D97757?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/></a>
+  <a href="https://luisguilherme605.github.io/portf-lio-luisguilherme/"><img src="https://img.shields.io/badge/Portfólio-D97757?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/></a>
 </p>
 
 </div>
@@ -63,11 +63,11 @@ Guia turístico interativo de Brasília com **maquete 3D** desenhada por mim no 
 </td>
 <td width="50%">
 
-### 💼 [Portfólio Pessoal](https://luisguilherme605.github.io/portfolio-luis-guilherme/)
+### 💼 [Portfólio Pessoal](https://luisguilherme605.github.io/portf-lio-luisguilherme/)
 Meu site pessoal com design dark, fundo de estrelas animadas no canvas, robô mascote 3D em WebGL (Three.js), cursor personalizado, efeito tilt nos cards, scroll animations e suporte bilíngue PT/EN.
 
-[![Repo](https://img.shields.io/badge/Ver_código-181717?style=flat-square&logo=github)](https://github.com/LuisGuilherme605/portfolio-luis-guilherme)
-[![Live](https://img.shields.io/badge/Ver_site-D97757?style=flat-square&logo=googlechrome&logoColor=white)](https://luisguilherme605.github.io/portfolio-luis-guilherme/)
+[![Repo](https://img.shields.io/badge/Ver_código-181717?style=flat-square&logo=github)](https://github.com/LuisGuilherme605/portf-lio-luisguilherme)
+[![Live](https://img.shields.io/badge/Ver_site-D97757?style=flat-square&logo=googlechrome&logoColor=white)](https://luisguilherme605.github.io/portf-lio-luisguilherme/)
 
 `HTML` `CSS` `JavaScript` `Three.js` `WebGL`
 
